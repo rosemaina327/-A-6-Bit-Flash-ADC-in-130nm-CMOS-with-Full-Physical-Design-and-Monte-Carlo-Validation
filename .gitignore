@@ -1,0 +1,17 @@
+# Simulation outputs
+*.raw
+*.log
+*.tr0
+*.ac0
+*.dc0
+*.txt
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
